@@ -24,6 +24,3 @@ Derived from `Animal`, adds:
 ## 🧪 Deployment
 - Deployed to **Sepolia testnet** via **Remix**
 - All public and pure/view functions successfully tested through the Remix UI
-
-## 🧳 Files
-
